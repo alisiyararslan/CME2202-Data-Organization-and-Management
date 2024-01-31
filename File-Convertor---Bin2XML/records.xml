@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<records>
+	<row id="1">
+		<name>James</name>
+		<surname>Butt</surname>
+		<gender>M</gender>
+		<email>jbutt@gmail.com</email>
+		<phone_number>504-845-1427</phone_number>
+		<address>7 W Cerritos Ave #54</address>
+		<level_of_education>MSc</level_of_education>
+		<currency_unit>$</currency_unit>
+		<height>1.33</height>
+		<weight>68</weight>
+	</row>
+	<row id="2">
+		<name>Güliz</name>
+		<surname>Şen</surname>
+		<gender>F</gender>
+		<email>guliz_sen@hotmail.com</email>
+		<phone_number>504-845-1428</phone_number>
+		<address>6 W Cerritos Ave #54</address>
+		<level_of_education>BSc</level_of_education>
+		<currency_unit>₺</currency_unit>
+		<height>1.17</height>
+		<weight>53</weight>
+	</row>
+	<row id="3">
+		<name>Art</name>
+		<surname>Venere</surname>
+		<gender>M</gender>
+		<email>art.venere@hotmail.com</email>
+		<phone_number>856-264-4130</phone_number>
+		<address>8 W Cerritos Ave #54</address>
+		<level_of_education>PhD</level_of_education>
+		<currency_unit>$</currency_unit>
+		<height>2.00</height>
+		<weight>72</weight>
+	</row>
+</records>
